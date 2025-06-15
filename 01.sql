@@ -1,3 +1,4 @@
+-- Active: 1749975818091@@127.0.0.1@3306@mysql
 CREATE Table Employees (
   EmployeeID INT PRIMARY KEY,
   FirstName VARCHAR(50),
